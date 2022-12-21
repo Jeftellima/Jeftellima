@@ -2,7 +2,5 @@
 
 <p align="left"> 
   Seja bem vindo ao meu perfil | Sou estudante de Analise e Desenvolvimento de Sistemas | No momento mergulhando nesse profundo mundo da tecnologia da informação.
-  
-  | 
-  
+ 
                            Vamos agregar conhecimento?            </>                    Positividade é a 🗝️
