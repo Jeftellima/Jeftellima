@@ -1,15 +1,15 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Jeftellima&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-###  Seja bem vindo ao meu perfil... Estudante de Análise e Desenvolvimento de Sistemas. | Mergulhando nesse profundo mundo da tecnologia da informação.
-
-<img src="https://img.shields.io/static/v1?label=GITHUB&message=JEFTE&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-<p>
-
-Estudando/Aprendendo | Java | C | Python <br/>
-
-Dando o melhor de sí | Positividade éa chave !!! .
-
-
+<p align="left"> 
+  Bem vindo ao meu perfil, me chamo Jefte, sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente mergulhando nesse profundo mundo de conhecimento da tecnologia da informação.
+Sou curioso, proativo e inquieto.
 </p>
-<hr>
+
+<p align="left">
+  💼  Ferramentas: <strong>Atualmente aprendendo Python | C | SQL SERVER | HTML.</strong>
+</p>
+
+<p align="left">
+  💌  Procura um perfil como o meu então não hesite em me cita meu e-mail é jefte.lima.silva@gmail.com | Linkedin https://www.linkedin.com/in/jeftesilvalima/ : ⤵️
+</p>
+
