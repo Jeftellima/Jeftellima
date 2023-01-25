@@ -6,7 +6,7 @@ Sou curioso, proativo e inquieto.
 </p>
 
 <p align="left">
-  💼  Ferramentas: <strong>Atualmente aprendendo Python | C | SQL SERVER | HTML.</strong>
+  💼  <strong>Atualmente aprendendo Python | C | SQL SERVER | HTML.</strong>
 </p>
 
 <p align="left">
