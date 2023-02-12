@@ -10,5 +10,5 @@ Sou curioso, proativo e inquieto.
 </p>
 
 <p align="left">
-  Procura um perfil como o meu então não hesite em me citar. Meu e-mail é jefte.lima.silva@gmail.com | Linkedin https://www.linkedin.com/in/jeftesilvalima/ 
+  Procura um perfil como o meu? Então não hesite em me citar! Meu e-mail é jefte.lima.silva@gmail.com | Linkedin https://www.linkedin.com/in/jeftesilvalima/ 
 </p>
