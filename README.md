@@ -6,5 +6,9 @@ Sou comunicativo, determinado e otimista.
 </p>
 
 <p align="left">
-  Procura um perfil como o meu? Então não hesite em me citar! Meu e-mail é jefte.lima.silva@gmail.com | Linkedin https://www.linkedin.com/in/jeftesilvalima/ 
+  Procura um perfil como o meu? 41-99816-9117
+</p>
+
+<p align="left">
+  Linkedin https://www.linkedin.com/in/jeftesilvalima/ 
 </p>
