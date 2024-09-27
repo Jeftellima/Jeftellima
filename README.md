@@ -10,5 +10,5 @@ Sou comunicativo, determinado e otimista.
 </p>
 
 <p align="left">
-  Linkedin https://www.linkedin.com/in/jeftesilvalima/ 
+
 </p>
